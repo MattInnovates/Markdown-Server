@@ -22,7 +22,7 @@ A simple, lightweight Node.js server that renders Markdown files as beautiful HT
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/markdown-server.git
+git clone https://github.com/Mattinnovates/markdown-server.git
 cd markdown-server
 ```
 
