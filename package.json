@@ -1,0 +1,43 @@
+{
+  "name": "markdown-server",
+  "version": "1.0.0",
+  "description": "A simple, lightweight Node.js server that renders Markdown files as beautiful HTML in your web browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/markdown-server.git"
+  },
+  "keywords": [
+    "markdown",
+    "server",
+    "express",
+    "html",
+    "gfm",
+    "github-flavored-markdown",
+    "documentation",
+    "viewer",
+    "nodejs",
+    "web-server"
+  ],
+  "author": "MattInnovates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/markdown-server/issues"
+  },
+  "homepage": "https://github.com/your-username/markdown-server#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "0.0.1-security",
+    "marked": "^9.1.2",
+    "path": "^0.12.7"
+  }
+}
