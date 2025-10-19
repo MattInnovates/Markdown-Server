@@ -99,6 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions, please open an issue on GitHub.
 
+This tool is intentionally Docker-free — it's meant to be lightweight, filesystem-native and instantly usable without containers or orchestration overhead.
+
 ---
 
 **Happy Markdown Serving!** 📝✨
